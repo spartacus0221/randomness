@@ -1,0 +1,22 @@
+{
+    "image2": {
+        "data": "hwQEAAQAAAAiIgAAIiIAACIiAAAiIgAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Sick"
+    },
+    "image3": {
+        "data": "hwQEAAQAAAB3dwAAd3cAAHd3AAB3dwAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Healthy"
+    },
+    "image1": {
+        "data": "hwQEAAQAAABVVQAAVVUAAFVVAABVVQAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Alright"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
